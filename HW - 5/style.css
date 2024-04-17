@@ -1,0 +1,9 @@
+.img_container {
+   text-align: center;
+   font-weight: bold;
+   width: 450px;
+   height: 400px;
+   margin-top: 40px;
+   border: 5px solid greenyellow;
+   
+}
